@@ -319,7 +319,7 @@ body{
     background: rgb(239, 46, 46);
 }
 
-#ideal-cart{
+#VKCart{
     color:rgba(99, 21, 85, 0.949);
     font-size:1rem;
     font-weight: 800;
@@ -331,6 +331,6 @@ body{
     opacity:0.77;
 }
 
-#ideal-cart:hover {
+#VKCart:hover {
     opacity: 0.91;
 }
